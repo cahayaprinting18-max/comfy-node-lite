@@ -1,2 +1,1 @@
-# comfy-node-lite
-comfy helper node
+# comfy helper
